@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tsp.hpp
+vector
+-
+utility
+-
+algorithm
+-
+cmath
+-
+numeric
+-
+sstream
+-
+
+C:/Ja/Rzeczy/Programowanie/CLionProjects/komiwojazer_problem/src/tsp.cpp
+tsp.hpp
+-
+tsp.hpp
+C:/Ja/Rzeczy/Programowanie/CLionProjects/komiwojazer_problem/src/tsp.hpp
+

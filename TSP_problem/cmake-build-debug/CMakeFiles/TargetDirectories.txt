@@ -1,0 +1,3 @@
+C:/Ja/Rzeczy/Programowanie/CLionProjects/komiwojazer_problem/cmake-build-debug/CMakeFiles/komiwojazer_problem.dir
+C:/Ja/Rzeczy/Programowanie/CLionProjects/komiwojazer_problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ja/Rzeczy/Programowanie/CLionProjects/komiwojazer_problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
